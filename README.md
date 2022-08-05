@@ -1,6 +1,6 @@
 # Twitterdan Kolayca Veri Toplamak.
 
-Bu repoda, Medium için oluşturduğum tweet kazıma içeriğinin kodları bulunmaktadır.R ile yazılmıştır.
+Bu repoda, Medium için oluşturduğum tweet kazıma içeriğinin kodları bulunmaktadır. R ile yazılmıştır.
 
 ##Kullanım
 Bu çalışmada, açık kaynak kodlu paketlerden biri olan rtweet paketini kullandım. Pakete ve detaylı bilgiye [buradan](https://github.com/ropensci/rtweet) ulaşabilirsiniz.
